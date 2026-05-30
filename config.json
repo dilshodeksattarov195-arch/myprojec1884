@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdecrypt",
+        "uuid": 7475712,
+        "checksum": "inwz2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
